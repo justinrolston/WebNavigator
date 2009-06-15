@@ -1,0 +1,5 @@
+C:\svn\WebNavigator\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\svn\WebNavigator\Web\bin\Web.dll
+C:\svn\WebNavigator\Web\bin\Web.pdb
+C:\svn\WebNavigator\Web\obj\Debug\Web.dll
+C:\svn\WebNavigator\Web\obj\Debug\Web.pdb
